@@ -1,0 +1,50 @@
+{
+    "data":[
+        {"title":"故宫",
+          "msg":"东方宫殿建筑代表,世界宫殿建筑典范" ,
+          "img":"https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_03.png" 
+        },
+        {"title":"南山滑雪场",
+          "msg":"北京专业级滑雪胜地" ,
+          "img":"https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_06.png" 
+        },
+        {"title":"天安门广场",
+          "msg":"我爱北京天安门,天安门上太阳升" ,
+          "img":"https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_08.png" 
+        },
+        {"title":"水立方",
+          "msg":"中国的荣耀,阳光下的晶莹水滴" ,
+          "img":"https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_10.png" 
+        },
+        {"title":"温都水城养生馆",
+          "msg":"各种亚热带植物掩映期间,仿佛置身热带雨林" ,
+          "img":"https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_12.png" 
+        }       
+    ],
+    "weekendList": [{
+      "id": "0001",
+      "img": "https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_14.png",
+      "title": "北京温泉排行榜",
+      "desc": "细数北京温泉，温暖你的冬天"
+    }, {
+      "id": "0002",
+      "img": "https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_17.png",
+      "title": "北京必游TOP10",
+      "desc": "来北京必去的景点非这些地方莫属"
+    }, {
+      "id": "0003",
+      "img": "https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_19.png",
+      "title": "寻找北京的皇城范儿",
+      "desc": "数百年的宫廷庙宇，至今依旧威严霸气"
+    }, {
+      "id": "0004",
+      "img": "https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_21.png",
+      "title": "学生最爱的博物馆",
+      "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
+    }, {
+      "id": "0005",
+      "img": "https://coder-linshun.github.io/myproject_vue_demo_ly/static/images/index_112_23.png",
+      "title": "儿童剧场，孩子的乐园",
+      "desc": "带宝贝观看演出，近距离体验艺术的无穷魅力"
+    }]
+}
